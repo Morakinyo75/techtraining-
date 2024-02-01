@@ -1,0 +1,13 @@
+The Internet is a global network of interconnected computers and devices that communicate using standardized protocols. It enables the exchange of information, data, and services across the world. 
+The Internet has become an integral part of modern life, serving as a platform for innovation, connectivity, and the exchange of ideas on a global scale.
+
+Information on the Internet moves from one computer to another in the form of bits over various mediums, including Ethernet cables, fiber optic cables, and wireless signals (i.e., radio waves).
+The information that is being transfered now communicates with other computers through a protocol using the IP Address of each computer. 
+
+Taking about packets, routing and reliability, the information transfer is done in the form of packets and these packets may follow different routes depending on certain factors.
+
+HTTP is the standard protocol by which webpages are transferred over the Internet.
+
+When we talk about Encryption and Public Keys, this is how informations are being kept safe while being transmitted
+
+Cybersecurity refers to the protective measures against criminal activity accomplished through using a network, technological devices, and the internet.
