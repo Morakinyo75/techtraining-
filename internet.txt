@@ -1,3 +1,4 @@
+What is the Internet?
 The Internet is a global network of interconnected computers and devices that communicate using standardized protocols. It enables the exchange of information, data, and services across the world. 
 The Internet has become an integral part of modern life, serving as a platform for innovation, connectivity, and the exchange of ideas on a global scale.
 
